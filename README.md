@@ -1,7 +1,7 @@
 # Jupyter Docker Stacks
 
 These are a set of ready-to-run [Docker images](https://hub.docker.com/u/jupyter)
-containing Jupyter applications.
+containing Jupyter applications based on Python 3.6.
 
 ## Quick Start
 In order to create the images:
@@ -10,6 +10,7 @@ In order to create the images:
     cd docker-img_jupyter
     make build-all
 ````
-
 based on https://github.com/jupyter/docker-stacks
+
+
 
